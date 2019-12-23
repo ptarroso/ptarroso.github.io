@@ -1,0 +1,32 @@
+---
+layout: archive
+---
+
+
+<h2>Scientific journals</h2><br>
+{% assign pubs = site.data.publications | sort: 'year' | reverse %}
+
+<ul><font size="2">
+{% for ref in pubs %}
+    <li>
+    {% assign size = ref.authors.size | minus: 1 %} 
+    {% for i in (0..size) %}
+        {% assign author = ref.authors[i] %}
+        {%- if author == "Tarroso P" -%}
+            <strong>{{ author }}</strong>
+        {%- else -%}
+            {{ author }}
+        {%- endif -%}
+
+        {%- if i < size  -%}
+            ,
+        {%- endif -%}
+
+    {% endfor %}
+    ({{- ref.year -}}). {{ ref.title }}. <i>{{ ref.journal }}</i>, {{ ref.volume }}({{ ref.issue }}), {{ ref.pages }}.
+    <a target="_blank" rel="noopener noreferrer" href={{ ref.url }}><i class="fas fa-link"></i></a>
+
+</li>
+{% endfor %}
+</font>
+</ul>

@@ -1,0 +1,676 @@
+- ref: rebelo2010predicted
+  authors:
+    - Rebelo H
+    - Tarroso P
+    - Jones G
+  title: "Predicted impact of climate change on European bats in relation to their biogeographic patterns"
+  year: 2010
+  journal: "Global Change Biology"
+  volume: 16
+  issue: 2
+  pages: 561-576
+  url: "https://onlinelibrary.wiley.com/doi/full/10.1111/j.1365-2486.2009.02021.x"
+- ref: mucientes2009sexual
+  authors:
+    - Mucientes G
+    - Queiroz N
+    - Sousa L
+    - Tarroso P
+    - Sims D
+  title: "Sexual segregation of pelagic sharks and the potential threat from fisheries"
+  year: 2009
+  journal: "Biology Letters"
+  volume: 5
+  issue: 2
+  pages: 156-159
+  url: "https://royalsocietypublishing.org/doi/abs/10.1098/rsbl.2008.0761"
+- ref: chen2009zebu
+  authors:
+    - Chen S
+    - Lin B
+    - Baig M
+    - Mitra B
+    - Lopes R
+    - Santos A
+    - Magee D
+    - Azevedo M
+    - Tarroso P
+    - Sasazaki S
+    - Ostrowski S
+    - Mahgoub O
+    - Chaudhuri TK, 
+    - Zhang Y-P
+    - Costa V
+    - Royo LJ
+    - Goyache F
+    - Luikart G
+    - Boivin N
+    - Fuller DQ
+    - Mannen H
+    - Bradley DG
+    - Beja-Pereira A
+  title: "Zebu cattle are an exclusive legacy of the South Asia Neolithic"
+  year: 2009
+  journal: "Molecular Biology And Evolution"
+  volume: 27
+  issue: 1
+  pages: 1-6
+  url: "https://academic.oup.com/mbe/article-abstract/27/1/1/1127118"
+- ref: lima2007modelling
+  authors:
+    - Lima F
+    - Ribeiro P
+    - Queiroz N
+    - Xavier R
+    - Tarroso P
+    - Hawkins S
+    - Santos A
+  title: "Modelling past and present geographical distribution of the marine gastropod <i>Patella rustica</i> as a tool for exploring responses to environmental change"
+  year: 2007
+  journal: "Global Change Biology"
+  volume: 13
+  issue: 10
+  pages: 2065-2077
+  url: "https://onlinelibrary.wiley.com/doi/full/10.1111/j.1365-2486.2007.01424.x"
+- ref: brito2014unravelling
+  authors:
+    - Brito J
+    - Godinho R
+    - Martı́nez-Freiría F
+    - Pleguezuelos J
+    - Rebelo H
+    - Santos X
+    - Vale C
+    - Velo-Antón G
+    - Boratyński Z
+    - Carvalho S
+    - Ferreira S
+    - Gonçalves DV
+    - Silva TL
+    - Tarroso P
+    - Campos JC
+    - Leite JV
+    - Nogueira J
+    - Álvares F
+    - Sillero N
+    - Sow AS
+    - Fahd S
+    - Crochet P-A
+    - Carranza S
+  title: "Unravelling biodiversity, evolution and threats to conservation in the Sahara-Sahel"
+  year: 2014
+  journal: "Biological Reviews"
+  volume: 89
+  issue: 1
+  pages: 215-231
+  url: "https://onlinelibrary.wiley.com/doi/full/10.1111/brv.12049"
+- ref: sarmento2009status
+  authors:
+    - Sarmento P
+    - Cruz J
+    - Monterroso P
+    - Tarroso P
+    - Ferreira C
+    - Negrões N
+    - Eira C
+  title: "Status survey of the critically endangered Iberian lynx <i>Lynx pardinus</i> in Portugal"
+  year: 2009
+  journal: "European Journal Of Wildlife Research"
+  volume: 55
+  issue: 3
+  pages: 247-253
+  url: "https://link.springer.com/article/10.1007/s10344-008-0240-5"
+- ref: brito2011crocodiles
+  authors:
+    - Brito J
+    - Martı́nez-Freiría F
+    - Sierra P
+    - Sillero N
+    - Tarroso P
+  title: "Crocodiles in the Sahara Desert: an update of distribution, habitats and population status for conservation planning in Mauritania"
+  year: 2011
+  journal: "Plos One"
+  volume: 6
+  issue: 2
+  pages: e14734
+  url: "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0014734"
+- ref: vale2014predicting
+  authors:
+    - Vale C
+    - Tarroso P
+    - Brito J
+  title: "Predicting species distribution at range margins: testing the effects of study area extent, resolution and threshold selection in the Sahara--Sahel transition zone"
+  year: 2014
+  journal: "Diversity And Distributions"
+  volume: 20
+  issue: 1
+  pages: 20-33
+  url: "https://onlinelibrary.wiley.com/doi/full/10.1111/ddi.12115"
+- ref: tarroso2014hybridization
+  authors:
+    - Tarroso P
+    - Pereira R
+    - Martı́nez-Freiría F
+    - Godinho R
+    - Brito J
+  title: "Hybridization at an ecotone: ecological and genetic barriers between three Iberian vipers"
+  year: 2014
+  journal: "Molecular Ecology"
+  volume: 23
+  issue: 5
+  pages: 1108-1123
+  url: "https://onlinelibrary.wiley.com/doi/full/10.1111/mec.12671"
+- ref: sillero2010free
+  authors:
+    - Sillero N
+    - Tarroso P
+  title: "Free GIS for herpetologists: free data sources on Internet and comparison analysis of proprietary and free/open source software"
+  year: 2010
+  journal: "Acta Herpetologica"
+  volume: 5
+  issue: 1
+  pages: 63
+  url: "https://oaj.fupress.net/index.php/ah/article/view/1583"
+- ref: carneiro2013steep
+  authors:
+    - Carneiro M
+    - Baird S
+    - Afonso S
+    - Ramirez E
+    - Tarroso P
+    - Teotónio H
+    - Villafuerte R
+    - Nachman M
+    - Ferrand N
+  title: "Steep clines within a highly permeable genome across a hybrid zone between two subspecies of the European rabbit"
+  year: 2013
+  journal: "Molecular Ecology"
+  volume: 22
+  issue: 9
+  pages: 2511-2525
+  url: "https://onlinelibrary.wiley.com/doi/full/10.1111/mec.12272"
+- ref: boratynski2014molecular
+  authors:
+    - Boratyński Z
+    - Melo-Ferreira J
+    - Alves P
+    - Berto S
+    - Koskela E
+    - Pentikäinen O
+    - Tarroso P
+    - Ylilauri M
+    - Mappes T
+  title: "Molecular and ecological signs of mitochondrial adaptation: consequences for introgression?"
+  year: 2014
+  journal: "Heredity"
+  volume: 113
+  issue: 4
+  pages: 277
+  url: "https://www.nature.com/articles/hdy201428"
+- ref: harris2010new
+  authors:
+    - Harris D
+    - Perera A
+    - Barata M
+    - Tarroso P
+    - Salvi D
+  title: "New distribution notes for terrestrial herpetofauna from Morocco"
+  year: 2010
+  journal: "North-western Journal Of Zoology"
+  volume: 6
+  issue: 2
+  pages: 309-315
+  url: "https://biozoojournals.ro/nwjz/content/v6.2/nwjz.061208.Harris.pdf"
+- ref: sarmento2006space
+  authors:
+    - Sarmento P
+    - Cruz J
+    - Tarroso P
+    - Fonseca C
+  title: "Space and habitat selection by female European wild cats (<i>Felis silvestris silvestris</i>)"
+  year: 2006
+  journal: "Wildlife Biology In Practice"
+  volume: 
+  issue: 
+  pages: 79-89
+  url: "http://eprints.whiterose.ac.uk/98399/"
+- ref: sarmento2005iberian
+  authors:
+    - Sarmento P
+    - Cruz J
+    - Monterroso P
+    - Tarroso P
+    - Ferreira C
+    - Negrões N
+  title: "Iberian lynx conservation in Portugal: Dilemmas and solutions"
+  year: 2005
+  journal: "Wildlife Biology In Practice"
+  volume: 
+  issue: 
+  pages: 156-162
+  url: "http://eprints.whiterose.ac.uk/98397/"
+- ref: queiroz2008first
+  authors:
+    - Queiroz N
+    - Araújo S
+    - Ribeiro P
+    - Tarroso P
+    - Xavier R
+    - Santos A
+  title: "A first record of longfin mako, <i>Isurus paucus</i>, in the mid-North Atlantic"
+  year: 2008
+  journal: "Marine Biodiversity Records"
+  volume: 1
+  issue: e34
+  pages: 
+  url: "https://www.cambridge.org/core/journals/marine-biodiversity-records/article/first-record-of-longfin-mako-isurus-paucus-in-the-midnorth-atlantic/3005B56B0D86861727C16885D8E5941E#"
+- ref: brito2011climate
+  authors:
+    - Brito J
+    - Fahd S
+    - Martı́nez-Freiría F
+    - Tarroso P
+    - Larbes S
+    - Pleguezuelos J
+    - Santos X
+  title: "Climate change and peripheral populations: predictions for a relict Mediterranean viper"
+  year: 2011
+  journal: "Acta Herpetologica"
+  volume: 6
+  issue: 1
+  pages: 105
+  url: "https://oaj.fupress.net/index.php/ah/article/view/1616"
+- ref: cheddadi2014revisiting
+  authors:
+    - Cheddadi R
+    - Birks H
+    - Tarroso P
+    - Liepelt S
+    - Gömöry D
+    - Dullinger S
+    - Meier E
+    - Hülber K
+    - Maiorano L
+    - Laborde H
+  title: "Revisiting tree-migration rates: <i>Abies alba</i> (Mill.), a case study"
+  year: 2014
+  journal: "Vegetation History And Archaeobotany"
+  volume: 23
+  issue: 2
+  pages: 113-122
+  url: "https://link.springer.com/article/10.1007/s00334-013-0404-4"
+- ref: tarroso2010clic
+  authors:
+    - Tarroso P
+    - Rebelo H
+  title: "E-Clic - easy climate data converter"
+  year: 2010
+  journal: "Ecography"
+  volume: 33
+  issue: 3
+  pages: 617-620
+  url: "https://onlinelibrary.wiley.com/doi/full/10.1111/j.1600-0587.2009.05969.x"
+- ref: tarroso2012simapse
+  authors:
+    - Tarroso P
+    - Carvalho S
+    - Brito J
+  title: "Simapse - simulation maps for ecological niche modelling"
+  year: 2012
+  journal: "Methods In Ecology And Evolution"
+  volume: 3
+  issue: 5
+  pages: 787-791
+  url: "https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/j.2041-210X.2012.00210.x"
+- ref: ferreira2011overview
+  authors:
+    - Ferreira S
+    - Boudot J
+    - Tarroso P
+    - Brito J
+  title: "Overview of Odonata known from Mauritania (west Africa)"
+  year: 2011
+  journal: "Odonatologica"
+  volume: 40
+  issue: 4
+  pages: 277
+  url: "http://www.odonatologica.com/wp-content/uploads/2014/08/40-4.pdf"
+- ref: teixeira2015genealogy
+  authors:
+    - Teixeira J
+    - Martı́nez-Solano I
+    - Buckley D
+    - Tarroso P
+    - García-París M 
+    - Ferrand N
+  title: "Genealogy of the nuclear $β$-fibrinogen intron 7 in <i>Lissotriton boscai</i> (Caudata, Salamandridae): concordance with mtDNA and implications for phylogeography and speciation"
+  year: 2015
+  journal: "Contributions To Zoology"
+  volume: 84
+  issue: 3
+  pages: 193-215
+  url: "https://brill.com/view/journals/ctoz/84/3/article-p193_2.xml"
+- ref: tarroso2015phylin
+  authors:
+    - Tarroso P
+    - Velo-Antón G
+    - Carvalho S
+  title: "PHYLIN: an R package for phylogeographic interpolation"
+  year: 2015
+  journal: "Molecular Ecology Resources"
+  volume: 15
+  issue: 2
+  pages: 349-357
+  url: "https://onlinelibrary.wiley.com/doi/full/10.1111/1755-0998.12312"
+- ref: vale2012distribution
+  authors:
+    - Vale C
+    - Tarroso P
+    - Campos J
+    - Gonçalves D
+    - Brito J
+  title: "Distribution, suitable areas and conservation status of the Boulenger’s agama (<i>Agama boulengeri</i>, Lataste 1886)"
+  year: 2012
+  journal: "Amphibia-reptilia"
+  volume: 33
+  issue: 3-4
+  pages: 526-532
+  url: "https://brill.com/view/journals/amre/33/3-4/article-p526_20.xml"
+- ref: martinez2016contemporary
+  authors:
+    - Martı́nez-Freiría F
+    - Tarroso P
+    - Rebelo H
+    - Brito J
+  title: "Contemporary niche contraction affects climate change predictions for elephants and giraffes"
+  year: 2016
+  journal: "Diversity And Distributions"
+  volume: 22
+  issue: 4
+  pages: 432-444
+  url: "https://onlinelibrary.wiley.com/doi/full/10.1111/ddi.12406"
+- ref: chiari2016ecological
+  authors:
+    - Chiari Y
+    - Glaberman S
+    - Tarroso P
+    - Caccone A
+    - Claude J
+  title: "Ecological and evolutionary influences on body size and shape in the Galápagos marine iguana (<i>Amblyrhynchus cristatus</i>)"
+  year: 2016
+  journal: "Oecologia"
+  volume: 181
+  issue: 3
+  pages: 885-894
+  url: "https://link.springer.com/article/10.1007/s00442-016-3618-1"
+- ref: tarroso2016spatial
+  authors:
+    - Tarroso P
+    - Carrión J
+    - Dorado-Valiño M
+    - Queiroz P
+    - Santos L
+    - Valdeolmillos-Rodrı́guez A
+    - Célio Alves P
+    - Brito J
+    - Cheddadi R
+  title: "Spatial climate dynamics in the Iberian Peninsula since 15 000 yr BP"
+  year: 2016
+  journal: "Climate Of The Past"
+  volume: 12
+  issue: 5
+  pages: 1137-1149
+  url: "https://www.clim-past.net/12/1137/2016/cp-12-1137-2016-discussion.html"
+- ref: brito2016conservation
+  authors:
+    - Brito J
+    - Tarroso P
+    - Vale CG
+    - Martı́nez-Freiría F
+    - Boratyński Z
+    - Campos JC
+    - Ferreira S
+    - Godinho R
+    - Gonçalves DV
+    - Leite JV
+    - Lima VO
+    - Pereira P
+    - Santos X
+    - Silva MJF
+    - Silva TL
+    - Velo‐Antón G
+    - Veríssimo J
+    - Crochet P-A
+    - Pleguezuelos JM
+    - Carvalho SB
+  title: "Conservation Biogeography of the Sahara-Sahel: additional protected areas are needed to secure unique biodiversity"
+  year: 2016
+  journal: "Diversity And Distributions"
+  volume: 22
+  issue: 4
+  pages: 371-384
+  url: "https://onlinelibrary.wiley.com/doi/full/10.1111/ddi.12416"
+- ref: carvalho2017spatial
+  authors:
+    - Carvalho S
+    - Velo-Antón G
+    - Tarroso P
+    - Portela A
+    - Barata M
+    - Carranza S
+    - Moritz C
+    - Possingham H
+  title: "Spatial conservation prioritization of biodiversity spanning the evolutionary continuum"
+  year: 2017
+  journal: "Nature Ecology & Evolution"
+  volume: 1
+  issue: 6
+  pages: 0151
+  url: "https://www.nature.com/articles/s41559-017-0151"
+- ref: tarroso2017complete
+  authors:
+    - Tarroso P
+    - Simó-Riudalbas M
+    - Carranza S
+  title: "The complete mitochondrial genome of <i>Pristurus rupestris rupestris</i>"
+  year: 2017
+  journal: "Mitochondrial Dna Part B"
+  volume: 2
+  issue: 2
+  pages: 802-803
+  url: "https://www.tandfonline.com/doi/full/10.1080/23802359.2017.1398612"
+- ref: simo2018systematics
+  authors:
+    - Simó-Riudalbas M
+    - Tarroso P
+    - Papenfuss T
+    - Al-Sariri T
+    - Carranza S
+  title: "Systematics, biogeography and evolution of <i>Asaccus gallagheri</i> (Squamata, Phyllodactylidae) with the description of a new endemic species from Oman"
+  year: 2018
+  journal: "Systematics And Biodiversity"
+  volume: 16
+  issue: 4
+  pages: 323-339
+  url: "https://www.tandfonline.com/doi/full/10.1080/14772000.2017.1403496"
+- ref: carranza2018diversity
+  authors:
+    - Carranza S
+    - Xipell M
+    - Tarroso P
+    - Gardner A
+    - Arnold E
+    - Robinson M
+    - Simo-Riudalbas M
+    - Vasconcelos R
+    - de Pous P
+    - Amat F
+    - Šmíd J
+    - Sindaco R
+    - Metallinou M
+    - Els J
+    - Pleguezuelos JM
+    - Machado L
+    - Donaire D
+    - Martínez G
+    - Garcia-Porta J
+    - Mazuch T
+    - Wilms T
+    - Gebhart J
+    - Aznar J
+    - Gallego J
+    - Zwanzig B-M
+    - Fernandez-Guiberteau D
+    - Papenfuss T
+    - Saadi SA
+    - Alghafri A
+    - Khalifa S
+    - Farqani HA
+    - Bilal SB
+    - Alazri IS
+    - Adhoobi ASA
+    - Omairi ZSA
+    - Shariani MA
+    - Kiyumi AA
+    - Sariri TA
+    - Shukaili ASA
+    - Akhzami SNA
+  title: "Diversity, distribution and conservation of the terrestrial reptiles of Oman (Sauropsida, Squamata)"
+  year: 2018
+  journal: "Plos One"
+  volume: 13
+  issue: 2
+  pages: e0190389
+  url: "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0190389"
+- ref: vasconcelos2018combining
+  authors:
+    - Vasconcelos R
+    - Razgour O
+    - Tarroso P
+    - Fasola M
+    - Carranza S
+    - Alves P
+  title: "Combining molecular and landscape tools for targeting evolutionary processes in reserve design: An approach for islands"
+  year: 2018
+  journal: "Plos One"
+  volume: 13
+  issue: 7
+  pages: e0200830
+  url: "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0200830"
+- ref: antunes2018combining
+  authors:
+    - Antunes B
+    - Lourenço A
+    - Caeiro-Dias G
+    - Dinis M
+    - Gonçalves H
+    - Martı́nez-Solano I
+    - Tarroso P
+    - Velo-Antón G
+  title: "Combining phylogeography and landscape genetics to infer the evolutionary history of a short-range Mediterranean relict, <i>Salamandra salamandra longirostris</i>"
+  year: 2018
+  journal: "Conservation Genetics"
+  volume: 19
+  issue: 6
+  pages: 1411-1424
+  url: "https://link.springer.com/article/10.1007/s10592-018-1110-7"
+- ref: varela2018bioextreme
+  authors:
+    - Varela S
+    - Barbosa A
+    - Durán J
+    - Martı́nez-Freiría F
+    - González J
+    - Rodríguez A
+    - Tarroso P
+    - Velo-Antón G
+  title: "BioExtreme workshop, O Rosal (Galicia, España)"
+  year: 2018
+  journal: "Revista Ecosistemas"
+  volume: 27
+  issue: 3
+  pages: 144
+  url: "https://www.revistaecosistemas.net/index.php/ecosistemas/article/view/1667"
+- ref: tarroso2019phylin
+  authors:
+    - Tarroso P
+    - Carvalho S
+    - Velo-Antón G
+  title: "Phylin 2.0: Extending the phylogeographical interpolation method to include uncertainty and user-defined distance metrics"
+  year: 2019
+  journal: "Molecular Ecology Resources"
+  volume: 19
+  issue: 4
+  pages: 1081-1094
+  url: "https://onlinelibrary.wiley.com/doi/full/10.1111/1755-0998.13010"
+- ref: varela2019bioextreme
+  authors:
+    - Varela S
+    - Sbrocco E
+    - Tarroso P
+    - Pérez-Luque A
+    - Renaudie J
+    - Warnstädt N
+    - Fandos G
+    - Foster W
+    - Tietje M
+  title: "BioExtreme hackathon en el Museum für Naturkunde de Berlı́n, Alemania"
+  year: 2019
+  journal: "Revista Ecosistemas"
+  volume: 28
+  issue: 2
+  pages: 129
+  url: "https://revistaecosistemas.net/index.php/ecosistemas/article/view/1707"
+- ref: burriel2019integrative
+  authors:
+    - Burriel-Carranza B
+    - Tarroso P
+    - Els J
+    - Gardner A
+    - Soorae P
+    - Mohammed A
+    - Tubati S
+    - Eltayeb M
+    - Shah J
+    - Tejero-Cicuéndez H
+    - Simó-Riudalbas M
+    - Pleguezuelos JM
+    - Fernández-Guiberteau D
+    - Šmíd J
+    - Carranza S
+  title: "An integrative assessment of the diversity, phylogeny, distribution, and conservation of the terrestrial reptiles (Sauropsida, Squamata) of the United Arab Emirates"
+  year: 2019
+  journal: "Plos One"
+  volume: 14
+  issue: 5
+  pages: e0216273
+  url: "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0216273"
+- ref: carvalho2019genes
+  authors:
+    - Carvalho S
+    - Torres J
+    - Tarroso P
+    - Velo-Antón G
+  title: "Genes on the edge: a framework to detect genetic diversity imperiled by climate change"
+  year: 2019
+  journal: "Global Change Biology"
+  volume: 25
+  issue: 12
+  pages: 4034-4047
+  url: "https://onlinelibrary.wiley.com/doi/full/10.1111/gcb.14740"
+- ref: sequeira2019discordant
+  authors:
+    - Sequeira F
+    - Bessa-Silva A
+    - Tarroso P
+    - Sousa-Neves T
+    - Vallinoto M
+    - Gonçalves H
+    - Martı́nez-Solano I
+  title: "Discordant patterns of introgression across a narrow hybrid zone between two cryptic lineages of an Iberian endemic newt"
+  year: 2019
+  journal: "Journal Of Evolutionary Biology"
+  volume: 
+  issue: 
+  pages: 
+  url: "https://onlinelibrary.wiley.com/doi/full/10.1111/jeb.13562"
