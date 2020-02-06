@@ -2,6 +2,8 @@
 title: "Pedro Tarroso"
 layout: splash
 author_profile: false
+pagination:
+  enabled: true
 header:
   overlay_color: "#000"
   overlay_filter: "0.0"
