@@ -8,6 +8,8 @@ gem "wdm", "~> 0.1.0" if Gem.win_platform?
 # Due to vulnerability alert
 gem "activesupport", ">= 4.1.11"
 gem "faraday", "~> 0.17"
+gem "nokogiri", ">= 1.10.8"
+
 
 # If you have any plugins, put them here!
 group :jekyll_plugins do
