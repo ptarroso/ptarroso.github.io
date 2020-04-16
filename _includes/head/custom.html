@@ -1,6 +1,6 @@
 <!-- start custom head snippets -->
 
-<script data-ad-client="pub-5982046635574475" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> 
+<script data-ad-client="pub-5982046635574475" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-22591422-7"></script>
@@ -12,5 +12,11 @@
   gtag('config', 'UA-22591422-7');
 </script>
 
+<!-- Allow math formula on pages -->
+{% if page.mathjax %}
+<script type="text/javascript" async
+  src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML">
+</script>
+{% endif %}
 
 <!-- end custom head snippets -->
