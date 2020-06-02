@@ -20,7 +20,7 @@ The Game of Life relates to the concept of [cellular automaton](https://en.wikip
 
 There is an implicit third rule that is all other cells remain dead or die in the following generation. There are many relations to the biological world. For instance, rule no.1 is related to survival when resources are adequate and rule no.2 is related to reproduction. Conway and enthusiasts of Game of Life soon discovered that [patterns](https://www.conwaylife.com/wiki/Category:Patterns) with some specific behavior could be produced and start naming them: blocks, loaf, gliders, spaceships, glider guns, etc. Some of these patterns are immutable, some generate oscillating patterns that return to the original pattern every few generations. But others, like gliders, move on the plane where the Game of Life occurs. There are still patterns that might not move but its configuration allow to generate secondary patterns that do move (e.g. glider guns).
 
-Conway wasn't sure if the Game of Life was mathematics. But, Conway, it might not be math by your standards, but surely it is beautiful! In fact it relates to all questions stemming from a seminal one: how can complexity arise from simplicity? The patterns discovered allowed to do more than only a seemingly live game: they allowed to generate communication between patterns and even pattern that allow to perform any kind of [computation](http://rendell-attic.org/gol/utm/index.htm). This idea of self-organization emerging spontaneously is a powerful analogy to many systems like emergence of consciousness (heavily discussed by Daniel Dennett in his books) or, ultimately, emergence of life from simple raw materials.
+Conway wasn't sure if the Game of Life was mathematics. But, Conway, it might not be math by your standards, but surely it is beautiful! In fact it relates to all questions stemming from a seminal one: how can complexity arise from simplicity? The patterns discovered allowed to do more than only a seemingly live game: they allowed to generate communication between patterns and even patterns that allow to perform any kind of [computation](http://rendell-attic.org/gol/utm/index.htm). This idea of self-organization emerging spontaneously is a powerful analogy to many systems like emergence of consciousness (heavily discussed by Daniel Dennett in his books) or, ultimately, emergence of life from simple raw materials.
 
 
 ## gameR package
@@ -31,7 +31,7 @@ The *gameR* is a useless package and the Game of Life seemed a good way to start
 
 {:start="3"}
 3.  I have removed the infinite plane but gave them a world. So, at the edges of the world, where land and water meet, the cells can now live forever where	they contemplate the infinity on an ocean.
-4. Cells only live with certain environmental conditions, so they die if those conditions are not met.
+4. Cells only live with certain environmental conditions, thus they die if those conditions are not met.
 
 The package *gameR* includes all the functionality to run the Game of Life with the previous rules. I'm using the library [*keypress*](https://cran.r-project.org/web/packages/keypress/index.html) to detect user key input. It simplifies a lot the process but it has a drawback: you have to run the game on a terminal (or command line) instead of R Studio or other IDE. See the package readme for more instructions.
 
@@ -71,7 +71,7 @@ gol(map, grid, mean=0, sd=500)
 
 ![alt]({{ site.url }}{{ site.baseurl }}/assets/images/20200528_gol2.gif){: .align-center}
 
-Note that the starting pattern is the same as in the first example. However now, as you can see that the higher mountains Europe and Africa are blocking the passage and the living cells are expanding as possible around the mountains. It is more difficult for the game of Life to spread all over the area because cells tend to die where habitat became less favorable. This shows an interesting parallel to one or [my previous posts]({% post_url 2020-04-16-Phylin2%}), where I use a resistance model to describe distance between observations of a species.
+Note that the starting pattern is the same as in the first example. However now, as you can see that the higher mountains Europe and Africa are blocking the passage and the living cells are expanding as possible around the mountains. It is more difficult for the game of Life to spread all over the area because cells tend to die where habitat became less favorable. This shows an interesting parallel to one of [my previous posts]({% post_url 2020-04-16-Phylin2%}), where I use a resistance model to describe distance between observations of a species.
 
 Try the Game of Life yourself with the [gameR package](https://github.com/ptarroso/gameR)!
 
