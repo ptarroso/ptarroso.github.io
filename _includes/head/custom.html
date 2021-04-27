@@ -19,4 +19,11 @@
 </script>
 {% endif %}
 
+
+<!-- Allow additional javascripts in posts -->
+{% for javascript in page.custom-javascript-list %}
+    <script src="{{ javascript }}"></script>
+{% endfor %}
+
+
 <!-- end custom head snippets -->
