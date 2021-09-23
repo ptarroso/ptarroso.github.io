@@ -2,7 +2,7 @@
 title: "Simple simulation of life with JS"
 header:
     image:
-    og_image:
+    og_image: /assets/images/20210828_simulation_og.png
 tags:
   - simulation
   - evolution
