@@ -38,7 +38,7 @@
     - Sasazaki S
     - Ostrowski S
     - Mahgoub O
-    - Chaudhuri TK, 
+    - Chaudhuri TK,
     - Zhang Y-P
     - Costa V
     - Royo LJ
@@ -230,8 +230,8 @@
   title: "Space and habitat selection by female European wild cats (<i>Felis silvestris silvestris</i>)"
   year: 2006
   journal: "Wildlife Biology In Practice"
-  volume: 
-  issue: 
+  volume:
+  issue:
   pages: 79-89
   url: "http://eprints.whiterose.ac.uk/98399/"
 - ref: sarmento2005iberian
@@ -245,8 +245,8 @@
   title: "Iberian lynx conservation in Portugal: Dilemmas and solutions"
   year: 2005
   journal: "Wildlife Biology In Practice"
-  volume: 
-  issue: 
+  volume:
+  issue:
   pages: 156-162
   url: "http://eprints.whiterose.ac.uk/98397/"
 - ref: queiroz2008first
@@ -262,7 +262,7 @@
   journal: "Marine Biodiversity Records"
   volume: 1
   issue: e34
-  pages: 
+  pages:
   url: "https://www.cambridge.org/core/journals/marine-biodiversity-records/article/first-record-of-longfin-mako-isurus-paucus-in-the-midnorth-atlantic/3005B56B0D86861727C16885D8E5941E#"
 - ref: brito2011climate
   authors:
@@ -341,7 +341,7 @@
     - Martı́nez-Solano I
     - Buckley D
     - Tarroso P
-    - García-París M 
+    - García-París M
     - Ferrand N
   title: "Genealogy of the nuclear $β$-fibrinogen intron 7 in <i>Lissotriton boscai</i> (Caudata, Salamandridae): concordance with mtDNA and implications for phylogeography and speciation"
   year: 2015
@@ -670,7 +670,147 @@
   title: "Discordant patterns of introgression across a narrow hybrid zone between two cryptic lineages of an Iberian endemic newt"
   year: 2019
   journal: "Journal Of Evolutionary Biology"
-  volume: 
-  issue: 
-  pages: 
+  volume: 33
+  issue: 2
+  pages: 202-216
   url: "https://onlinelibrary.wiley.com/doi/full/10.1111/jeb.13562"
+- ref: tejero2021deserts
+  authors:
+    - Tejero-Cicuéndez H
+    - Tarroso P
+    - Carranza S
+    - Rabosky D
+  title: "Desert lizard diversity worldwide: effects of environment, time, and evolutionary rate"
+  year: 2021
+  journal: "bioRxiv"
+  volume: "Under review"
+  issue:
+  pages:
+  url: "https://www.biorxiv.org/content/10.1101/2021.02.09.430433v1.abstract"
+- ref: karin2021wonder
+  authors:
+    - Tamar K
+    - Els J
+    - Kornilios P
+    - Soorae P
+    - Tarroso P
+    - Thanou E
+    - Pereira J
+    - Shah JN
+    - Elhassan EEM
+    - Aguhob JC
+    - Badaam SF
+    - Eltayeb MM
+    - Pusey R
+    - Papenfuss TJ
+    - Macey JR
+    - Carranza S
+  title: "The demise of a wonder: Evolutionary history and conservation assessments of the Wonder Gecko <i>Teratoscincus keyserlingii</i> (Gekkota, Sphaerodactylidae) in Arabia"
+  year: 2021
+  journal: "Plos One"
+  volume: 16
+  issue: 1
+  pages: e0244150
+  url: "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0244150"
+- ref: Bastos2021bodytemp
+  authors:
+    - Bastos B
+    - Pradhan N
+    - Tarroso P
+    - Brito JC
+    - Boratyński Z
+  title: "Environmental determinants of minimum body temperature in mammals"
+  year: 2021
+  journal: "Journal of Vertebrate Biology"
+  volume: 70
+  issue: 2
+  pages: 21004
+  url: "https://bioone.org/journals/journal-of-vertebrate-biology/volume-70/issue-2/jvb.21004/Environmental-determinants-of-minimum-body-temperature-in-mammals/10.25225/jvb.21004.full"
+- ref: naia2021greenwall
+  authors:
+    - Naia M
+    - Tarroso P
+    - Sow AS
+    - Liz AV
+    - Gonçalves DV
+    - Martínez-Freiría F
+    - SantarémF
+    - Yusefi GH
+    - Velo-Antón G
+    - Avella I
+    - Hanson JO
+    - Khalatbari L
+    - Silva MJF
+    - Camacho-Sanchez M
+    - Boratyński Z
+    - Carvalho SB
+    - Brito JC
+  title: "Potential negative effects of the Green Wall on Sahel's biodiversity"
+  year: 2021
+  journal: "Conservation biology"
+  volume:
+  issue:
+  pages:
+  url: "https://pubmed.ncbi.nlm.nih.gov/33891705/"
+- ref: anton2021resitance
+  authors:
+    - Velo-Antón G
+    - Lourenço A
+    - Galán P
+    - Nicieza A
+    - Tarroso P
+  title: "Landscape resistance constrains hybridization across contact zones in a reproductively and morphologically polymorphic salamander"
+  year: 2021
+  journal: "Scientific reports"
+  volume: 11
+  issue: 1
+  pages: 9259
+  url: "https://www.nature.com/articles/s41598-021-88349-7"
+- ref: smid2021arabia
+  authors:
+    - Šmíd J
+    - Sindaco R
+    - Shobrak M
+    - Busais S
+    - Tamar K
+    - Aghová T
+    - Simó‐Riudalbas M
+    - Tarroso P
+    - Geniez P
+    - Crochet PA
+    - Els J
+  title: "Diversity patterns and evolutionary history of Arabian squamates"
+  year: 2021
+  journal: "Journal of Biogeography"
+  volume: 48
+  issue: 5
+  pages: 1183-99
+  url: "https://onlinelibrary.wiley.com/doi/abs/10.1111/jbi.14070"
+- ref: smid2021arabia
+  authors:
+    - Yusefi GH
+    - Safi K
+    - Tarroso P
+    - Brito JC
+  title: "The impacts of extreme climate change on mammals differ among functional groups at regional scale: The case of Iranian terrestrial mammals"
+  year: 2021
+  journal: "Diversity and Distributions"
+  volume: 27
+  issue: 9
+  pages: 1634-1647
+  url: "https://onlinelibrary.wiley.com/doi/full/10.1111/ddi.13307"
+- ref: smid2021arabia
+  authors:
+    - Rosado D
+    - Xavier R
+    - Cable J
+    - Severino R
+    - Tarroso P
+    - Pérez-Losada M
+  title: "Longitudinal sampling of external mucosae in farmed European seabass reveals the impact of water temperature on bacterial dynamics"
+  year: 2021
+  journal: "ISME Communications"
+  volume:
+  issue:
+  pages:
+  url: "https://www.nature.com/articles/s43705-021-00019-x"
