@@ -8,7 +8,7 @@ gem "wdm", "~> 0.1.0" if Gem.win_platform?
 # Due to vulnerability alert
 gem "activesupport", ">= 6.0.3.1"
 gem "faraday", "~> 0.17"
-gem "nokogiri", ">= 1.11.4"
+gem "nokogiri", ">= 1.12.5"
 gem "kramdown", ">= 2.3.1"
 gem "addressable", ">= 2.8.0"
 
