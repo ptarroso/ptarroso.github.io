@@ -41,12 +41,12 @@ include:
 exclude:
    - proj/
    - "*.Rmd"
-#   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+   - Gemfile.lock
+   - node_modules
+   - vendor/bundle/
+   - vendor/cache/
+   - vendor/gems/
+   - vendor/ruby/
 
 # Plugins (previously gems:)
 plugins:
@@ -74,6 +74,9 @@ author:
     - label: "ORCID"
       icon: "fab fa-fw fa-orcid"
       url: "https://orcid.org/0000-0002-2694-1170"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/pedro-tarroso-3b3886228"
 footer:
   links:
     - label: "E-mail"
@@ -88,6 +91,9 @@ footer:
     - label: "ORCID"
       icon: "fab fa-fw fa-orcid"
       url: "https://orcid.org/0000-0002-2694-1170"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/pedro-tarroso-3b3886228"
 
 defaults:
   # _posts
