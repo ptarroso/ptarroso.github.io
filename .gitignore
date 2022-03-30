@@ -6,3 +6,5 @@ serveLocally
 vendor
 tools
 proj
+Dockerfile
+Gemfile.lock
