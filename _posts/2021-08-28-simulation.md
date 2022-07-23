@@ -7,8 +7,8 @@ tags:
   - simulation
   - evolution
   - javascript
-custom-javascript-list:
-  - "https://cdn.jsdelivr.net/npm/chart.js"
+head-scripts:
+  - https://cdn.jsdelivr.net/npm/chart.js
 ---
 
 There is no direction or intent in evolution. However, an idea that evolution

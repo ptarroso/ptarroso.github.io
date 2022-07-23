@@ -1,0 +1,12 @@
+<!-- Allow math formula on pages -->
+{% if page.mathjax %}
+<script type="text/javascript" async
+  src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML">
+</script>
+{% endif %}
+
+
+<!-- Allow additional javascripts in posts -->
+{% for javascript in page.head-scripts %}
+    <script src="{{ javascript }}"></script>
+{% endfor %}
