@@ -1,6 +1,8 @@
 ---
 permalink: /about/
 title: "About"
+adv: true
+adv_sticky: true
 ---
 
 Hi! I'm Pedro Tarroso and this is my personal blog. I'm currently a postdoc at [CIBIO-InBio](https://cibio.up.pt/) working on subjects related to evolution, ecology and landscape genetics. I develop my research on the [Biodeserts group](https://biodeserts.cibio.up.pt/) which means I work mostly on arid landscapes. I'm also collaborating with [Carranza's lab](http://molevol.cmima.csic.es/carranza/index.html) to disentangle the intricate patterns of the *Pristurus rupestris* complex in the Arabian Hajar Mountains. 
