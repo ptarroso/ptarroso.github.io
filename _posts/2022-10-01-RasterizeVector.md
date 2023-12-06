@@ -12,6 +12,8 @@ In this post I will describe a simple tool to rasterize data. There are plenty o
 
 There are a few modules that are needed to run the code below. One is the obvious [GDAL Python bindings](https://gdal.org/api/python_bindings.html) allowing to import raster and vector data into the Python environment. The other is the typical [NumPy](https://numpy.org/) allowing to perform fast calculations on matrices.
 
+{% include inarticleadv.html %}
+
 # The strategy
 
 I follow a "quick and dirty" strategy for this code that gets the job done but will not work well on very large rasters or vectors. I iterate over the features in the vector layer to produce a raster map of the individual features. These maps are extracted to a numpy array and processed accordingly to the method chosen. The two main methods I needed was the **count** which sums the number of features present in each pixel, and the **max** which calculates the maximum value of a numeric attribute associated with the vector features present in each pixel.
@@ -90,6 +92,8 @@ outRaster.FlushCache()
 outRaster = None
 {% endhighlight %}
 
+
+{% include inarticleadv.html %}
 
 # Final thoughts
 

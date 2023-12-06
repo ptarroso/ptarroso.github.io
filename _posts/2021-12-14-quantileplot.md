@@ -15,6 +15,8 @@ This post describes a simple quantile plot with count data. I was working on a d
 
 All code is done with base R, without the need of any additional package. It is aimed to a beginner level to programming with R, so I hope it is accessible to anyone with a very basic level of R.
 
+{% include inarticleadv.html %}
+
 # Preparing the variables
 
 Instead of relying on some real data from somewhere, I'm creating some random data to plot. In the following steps I will create the *x* and *y* variables needed to plot.
@@ -77,6 +79,8 @@ for (i in 1:length(counts)) {
 }
 {% endhighlight %}
 In those case where I can easily guess the final size of the results, I create beforehand a matrix with the needed size and then fill it within the loop. The matrix *mat* has as many rows as quantiles calculated (```length(q)```) and as many columns as the number of count values available (```length(counts)```). Since we are looping over count values, each column is being filled sequentially with the quantiles in the loop. By other words, each column has the quantiles calculated for each unique count value.
+
+{% include inarticleadv.html %}
 
 ## Plotting
 

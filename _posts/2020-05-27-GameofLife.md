@@ -22,6 +22,7 @@ There is an implicit third rule that is all other cells remain dead or die in th
 
 Conway wasn't sure if the Game of Life was mathematics. But, Conway, it might not be math by your standards, but surely it is beautiful! In fact it relates to all questions stemming from a seminal one: how can complexity arise from simplicity? The patterns discovered allowed to do more than only a seemingly live game: they allowed to generate communication between patterns and even patterns that allow to perform any kind of [computation](http://rendell-attic.org/gol/utm/index.htm). This idea of self-organization emerging spontaneously is a powerful analogy to many systems like emergence of consciousness (heavily discussed by Daniel Dennett in his books) or, ultimately, emergence of life from simple raw materials.
 
+{% include inarticleadv.html %}
 
 ## gameR package
 
@@ -60,6 +61,8 @@ gol(map, grid)
 {% endhighlight %}
 
 ![alt]({{ site.url }}{{ site.baseurl }}/assets/images/20200528_gol1.gif){: .align-center}
+
+{% include inarticleadv.html %}
 
 As you can see, it spreads over most the available area. The living cells reach a large potion of the coastline where they became immortal beings contemplating the ocean as dictated by the 3rd rule.
 

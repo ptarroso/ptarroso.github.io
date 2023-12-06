@@ -25,6 +25,8 @@ The source map for this project is based on [Ptolemy's](https://en.wikipedia.org
 
 Ptolemy's work was the most accurate and exhaustive atlas of its time, at least within the Roman world, influenced many cultures and set standards for cartography production. Although the manuscripts did not survive, many Latin and Arabic translations did. The map I use here is from the [Jacobus Angelus's](https://en.wikipedia.org/wiki/Jacopo_d%27Angelo) Latin translation of Ptolemy's work (1406 AD). The map was probably updated with new geographic features in this reedition and most certainly stimulated the creation of new maps. However, the known world to Europe did not change much until the 16th century.
 
+{% include inarticleadv.html %}
+
 # Preparing the data
 
 I use the base map found [here](https://upload.wikimedia.org/wikipedia/commons/2/23/PtolemyWorldMap.jpg) for this tutorial. I have slightly edited the image in [GIMP](https://www.gimp.org/) to remove the background and the clips in the corners. I also did a small crop to adjust to the extent and used some sharpening. This map will be used as a texture for the 3D object later. The final size of the image is 1500x1026px, which we will be using a lot to maintain the proportions of the images we will be creating. You can find my file [here]({{ site.url }}{{ site.baseurl }}/assets/resources/PtolemyWorldMap.jpg).
@@ -41,6 +43,8 @@ The objective here is to overlay the elevation data with Ptolemy's projection as
 After creating all the necessary points, simply use the **Thin Plate Spline** option and save it to a new file. This map will serve as a displacement texture for the 3D in Blender. We won't need any coordinates for the 3D but we need to make sure that the images overlay correctly with the World map. For that you can use **Raster->Extraction->Clip By Extent** tool again and set the extent to the Ptolemy's World map to make sure it has the same proportions. Another thing that we need to get rid of is the elevation data... Blender does not read the numeric information associated with the pixel-like the GIS, only the color intensity. This means that we have to convert the map to a typical image without real elevation data but with different shades of gray proportional to the elevation. We first choose a gradient from black to white in the symbology (I'm using a linear gradient but you can play with the gradient to highlight some features). We now have to export the image to a typical image file using QGIS. We can use for this the menu **Project->Import/Export->Export Map to Image**. In the popup window use the layer to define the extent and choose also the resolution to export (I used 600 dpi for this example).
 
 ![alt]({{ site.url }}{{ site.baseurl }}/assets/images/20220629_ptolemy_export.gif){: .align-center}
+
+{% include inarticleadv.html %}
 
 # Prepare the elevation texture
 
@@ -61,6 +65,7 @@ In this project scene, I prefer an orthographic camera placed above the map. Set
 
 You may now render the image (menu Render->Render Image or F12) and you should get a similar image to the one in the beginning of the post.
 
+{% include inarticleadv.html %}
 
 # Final considerations
 

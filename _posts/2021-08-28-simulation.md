@@ -60,6 +60,8 @@ configurations. You will see that the circle remains a stable shape as expected
 but the remaining shapes will assume different configuration by chance, being
 more noticeable as the roughness value increases.
 
+{% include inarticleadv.html %}
+
 # First simulation
 
 As said, the simulation is quite simple. It consists of a defined area were the
@@ -118,6 +120,8 @@ no direction. The random mating will generate a pattern that depends on the
 local arrangement of the actors. If all perfect circles are grouped together,
 then they will tend to have offspring with very low values of roughness.
 
+{% include inarticleadv.html %}
+
 # Second simulation
 
 In this second simulation I have modified some of the parameters. The longevity
@@ -165,6 +169,8 @@ the shorter longevity, the circles do not have time to wonder around, so the
 successful search for a partner depends much more on the proximity. This effect,
 however, is purely demographic in the simulation. An adverse environment could
 escalate the effect, by removing more individuals.
+
+{% include inarticleadv.html %}
 
 # Some final remarks
 

@@ -15,6 +15,8 @@ If you have ever found yourself in a situation where you didn't know what to do 
 
 [GameR](https://github.com/ptarroso/gameR) is a useless package written in R where I accumulate hundreds of lines of irrelevant code. There is no reason to do this except (maybe) to feed procrastination in the hope of learning new tricks or to force new perspectives on programming and how to deal with data. Maybe it just simply is a release valve for stress when all other code is failing...
 
+{% include inarticleadv.html %}
+
 ## Eat Your Data
 
 This game is based on the classic [snake game](https://en.wikipedia.org/wiki/Snake_(video_game_genre)). You provide some data to the function and it returns a game! How joyful! The data must be numeric and without missing data (simply delete the rows with missing data... they are not doing anything useful there!). The game will perform a Principal Components Analysis and extract as many components as you wish (defaults to 4, the second argument to the function).
@@ -32,6 +34,7 @@ eatyoudata(iris[,1:4])
 
 ![alt]({{ site.url }}{{ site.baseurl }}/assets/images/20211114_eyd.gif){: .align-center}
 
+{% include inarticleadv.html %}
 
 ## Some technical notes
 
